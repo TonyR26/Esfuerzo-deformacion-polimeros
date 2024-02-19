@@ -1,0 +1,81 @@
+DATOS ANTONY
+Material: PEAD
+
+PEAD: Probeta 3
+
+El módulo de elasticidad es: 645.885 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil
+El esfuerzo a la fluencia o maximo es: 23.131 MPa
+Deformacion a la fluencia: 0.08875 mm/mm
+El esfuerzo a la fractura o último es: 8.302 MPa
+Deformación a la fractura: 0.646 mm/mm
+Ductilidad medida por la gráfica es: 64.552%
+El área de tenacidad gráficamente es: 10.235 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 25.42 MPa
+Deformación a la fluencia real: 0.11087698832271385 mm/mm
+
+PEAD: Probeta 4
+
+El módulo de elasticidad es: 657.456 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil
+El esfuerzo a la fluencia o maximo es: 22.917 MPa
+Deformacion a la fluencia: 0.09054052638992538 mm/mm
+El esfuerzo a la fractura o último es: 8.28 MPa
+Deformación a la fractura: 0.949 mm/mm
+Ductilidad medida por la gráfica es: 94.891%
+El área de tenacidad gráficamente es: 14.711 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 25.421 MPa
+Deformación a la fluencia real: 0.12886599848797686 mm/mm
+
+Material: Poliestireno cristal
+
+PS: Probeta 1
+
+El módulo de elasticidad es: 1882.414 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): fragil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): no
+El esfuerzo a la fluencia o maximo es: 37.885 MPa
+Deformacion a la fluencia: 0.020862935707089553 mm/mm
+El esfuerzo a la fractura o último es: 37.885 MPa
+Deformación a la fractura: 0.021 mm/mm
+Ductilidad medida por la gráfica es: 1.784 %
+El área de tenacidad gráficamente es: 0.378 J/mm^2
+
+
+PS: Probeta 2
+
+El módulo de elasticidad es: 2048.107 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): fragil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): no
+El esfuerzo a la fluencia o maximo es: 41.046 MPa
+Deformacion a la fluencia: 0.01991903147574627 mm/mm
+El esfuerzo a la fractura o último es: 41.046 MPa
+Deformación a la fractura: 0.02 mm/mm
+Ductilidad medida por la gráfica es: 1.286 %
+El área de tenacidad gráficamente es: 0.36 J/mm^2
+
+
+PS: Probeta 3
+
+El módulo de elasticidad es: 2458.39 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): fragil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): no
+El esfuerzo a la fluencia o maximo es: 42.371 MPa
+Deformacion a la fluencia: 0.018785002677238805 mm/mm
+El esfuerzo a la fractura o último es: 42.371 MPa
+Deformación a la fractura: 0.019 mm/mm
+Ductilidad medida por la gráfica es: 1.598 %
+El área de tenacidad gráficamente es: 0.39 J/mm^2
+
+
+PS: Probeta 4
+
+El módulo de elasticidad es: 1904.477 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): fragil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): no
+El esfuerzo a la fluencia o maximo es: 35.653 MPa
+Deformacion a la fluencia: 0.0186311463488806 mm/mm
+El esfuerzo a la fractura o último es: 35.653 MPa
+Deformación a la fractura: 0.019 mm/mm
+Ductilidad medida por la gráfica es: 1.844 %
+El área de tenacidad gráficamente es: 0.349 J/mm^2

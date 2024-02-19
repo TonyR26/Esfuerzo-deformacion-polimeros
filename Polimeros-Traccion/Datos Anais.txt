@@ -1,0 +1,67 @@
+Datos Anais
+
+
+
+Material: Elastomero
+
+Elastomero: Probeta 1
+
+El esfuerzo a la fractura o último es: 20.153 MPa
+Deformación a la fractura: 3.603 mm/mm
+
+Elastomero: Probeta 2
+
+El esfuerzo a la fractura o último es: 20.018 MPa
+Deformación a la fractura: 3.517 mm/mm
+
+Elastomero: Probeta 3
+
+El esfuerzo a la fractura o último es: 16.268 MPa
+Deformación a la fractura: 3.184 mm/mm
+
+
+Material: ABS
+
+ABS: Probeta 1
+
+El módulo de elasticidad es: 1843.873 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): no
+El esfuerzo a la fluencia o maximo es: 49.509 MPa
+Deformacion a la fluencia: 0.019008075933006536 mm/mm
+El esfuerzo a la fractura o último es: 40.021 MPa
+Deformación a la fractura: 0.103 mm/mm
+Ductilidad medida por la gráfica es: 10.289 %
+El área de tenacidad gráficamente es: 4.246 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 50.45 MPa
+Deformación a la fluencia real: 0.018829679560513502 mm/mm
+
+
+ABS:Probeta 2
+
+El módulo de elasticidad es: 1752.23 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): no
+El esfuerzo a la fluencia o maximo es: 49.471 MPa
+Deformacion a la fluencia: 0.02068366469117647 mm/mm
+El esfuerzo a la fractura o último es: 40.038 MPa
+Deformación a la fractura: 0.092 mm/mm
+Ductilidad medida por la gráfica es: 9.12 %
+El área de tenacidad gráficamente es: 3.74 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 50.494 MPa
+Deformación a la fluencia real: 0.020472662273754192 mm/mm
+
+ABS: Probetra 3
+
+El módulo de elasticidad es: 1792.17 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): no
+El esfuerzo a la fluencia o maximo es: 50.803 MPa
+Deformacion a la fluencia: 0.02010751778267974 mm/mm
+El esfuerzo a la fractura o último es: 40.503 MPa
+Deformación a la fractura: 0.108 mm/mm
+Ductilidad medida por la gráfica es: 10.762 %
+El área de tenacidad gráficamente es: 4.53 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 51.824 MPa
+Deformación a la fluencia real: 0.019908031331841637 mm/mm
+

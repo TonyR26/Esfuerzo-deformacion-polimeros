@@ -1,0 +1,106 @@
+Datos Widaly
+
+Material: Naylon 6 (Verificar curvas con teoria y los valores de esfuerzo maximo y fractura con referencias)
+
+NYLON: Probeta 1
+
+El módulo de elasticidad es: 1819.934 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil?
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): si
+El esfuerzo de fluencia maximo es: 21.738 MPa
+Deformacion a la fluencia maxima: 0.014 mm/mm
+El esfuerzo a la fractura o último es: 29.071 MPa
+Deformación a la fractura: 0.023 mm/mm
+Ductilidad medida por la gráfica es: 2.232 %
+El área de tenacidad gráficamente es: 0.39 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 29.731 MPa
+Deformación a la fluencia real: 0.02244646756229035 mm/mm
+
+NYLON: Probeta 2
+
+El módulo de elasticidad es: 1041.024 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil?
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): si
+Ingrese el valor que considere para el esfuerzo de fluencia (Esfuerzo): 36.46
+El esfuerzo de fluencia maximo es: 36.477 MPa
+Deformacion a la fluencia maxima: 0.037 mm/mm
+El esfuerzo a la fractura o último es: 40.313 MPa
+Deformación a la fractura: 0.07 mm/mm
+Ductilidad medida por la gráfica es: 7.01 %
+El área de tenacidad gráficamente es: 2.234 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 43.154 MPa
+Deformación a la fluencia real: 0.0681115379567743 mm/mm
+
+NYLON: Probeta 3 (Defectuosa)
+
+El módulo de elasticidad es: 989.536 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil?
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): si
+El esfuerzo de fluencia maximo es: 40.063 MPa
+Deformacion a la fluencia maxima: 0.058 mm/mm
+El esfuerzo a la fractura o último es: 44.983 MPa
+Deformación a la fractura: 0.11 mm/mm
+Ductilidad medida por la gráfica es: 8.191 %
+El área de tenacidad gráficamente es: 3.184 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 49.943 MPa
+Deformación a la fluencia real: 0.1045889131942468 mm/mm
+
+NYLON: Probeta 4
+
+El módulo de elasticidad es: 1016.128 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil?
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): si
+El esfuerzo de fluencia maximo es: 41.322 MPa
+Deformacion a la fluencia maxima: 0.043 mm/mm
+El esfuerzo a la fractura o último es: 45.914 MPa
+Deformación a la fractura: 0.095 mm/mm
+Ductilidad medida por la gráfica es: 9.465 %
+El área de tenacidad gráficamente es: 3.644 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 50.27 MPa
+Deformación a la fluencia real: 0.09065861687059582 mm/mm
+
+
+Material: PVC+P
+
+PVC+P: Probeta 1
+
+El módulo de elasticidad es: 13.599 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): si
+El esfuerzo de fluencia maximo es: 6.946 MPa
+Deformacion a la fluencia maxima: 0.518 mm/mm
+El esfuerzo a la fractura o último es: 12.279 MPa
+Deformación a la fractura: 2.023 mm/mm
+Ductilidad medida por la gráfica es: 201.824 %
+El área de tenacidad gráficamente es: 17.404 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 37.121 MPa 
+Deformación a la fluencia real: 1.1062602938888177 mm/mm
+
+PVC+P: Probeta 2
+
+El módulo de elasticidad es: 9.519 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): si
+El esfuerzo de fluencia maximo es: 4.97 MPa
+Deformacion a la fluencia maxima: 0.516 mm/mm
+El esfuerzo a la fractura o último es: 14.963 MPa
+Deformación a la fractura: 2.839 mm/mm
+Ductilidad medida por la gráfica es: 283.827 %
+El área de tenacidad gráficamente es: 25.306 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 57.439 MPa   
+Deformación a la fluencia real: 1.3451282197380683 mm/mm
+
+PVC+P: Probeta 3
+
+El módulo de elasticidad es: 10.5 MPa
+Ingrese el tipo de fractura que observa (Ductil, fragil:elastico o anelastico, comportamiento cauchoso): ductil
+Desea calcular el esfuerzo de fluencia por metodo offset? (Si o No): si
+El esfuerzo de fluencia maximo es: 5.717 MPa
+Deformacion a la fluencia maxima: 0.547 mm/mm
+El esfuerzo a la fractura o último es: 14.631 MPa
+Deformación a la fractura: 2.552 mm/mm
+Ductilidad medida por la gráfica es: 255.157 %
+El área de tenacidad gráficamente es: 22.552 J/mm^2
+El esfuerzo a la fluencia o máximo esfuerzo real es: 51.997 MPa
+Deformación a la fluencia real: 1.2673228357993065 mm/mm
+(metales_traccion-env) 
