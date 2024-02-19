@@ -29,6 +29,6 @@ En el proyecto se encuntran 6 documentos
 - Carpeta Polimero flexion: Contiene la data limpia u el codigo principal para realizar el estudio de flexion
     El codigo principal tiene por nombre: Analisis_flexion.py
 - Polimero-env: El entorno virtual
-- Requirement.txt: Acrivo en formatoi .txt con las librerias necesarias para correr el proyecto.
+- Requirement.txt: Acrivo en formato .txt con las librerias necesarias para correr el proyecto.
 
 #Este proyecto aun se mantiene en desarrollo. Saludos
