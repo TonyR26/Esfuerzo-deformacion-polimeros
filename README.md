@@ -1,4 +1,4 @@
-#Analisisi esfuerzo deformacion en polimeros
+#Analisisis esfuerzo deformacion en polimeros
 
 #Introduccion
 El proyecto que se desarrollará tiene como objetivo principal analizar
