@@ -47,4 +47,4 @@ Este proyecto analiza el comportamiento mecánico de probetas poliméricas somet
 
 ---
 
-¿Quieres algún apartado extra o información adicional?
+
