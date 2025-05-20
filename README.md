@@ -22,11 +22,11 @@ contribuirá al desarrollo de futuras aplicaciones en diversos campos de la inge
 #Carpetas y documentos
 En el proyecto se encuntran 6 documentos
 
-- Crpeta Flexion: Contien la data de muestra del ensayo realizado a flexion
-- Carpeta Traccion: Contien la data de muestra del ensayo a traccion
-- Carpeta Polimero Traccion: Contien la data limpia y el codigo principal para realizart el estudio de traccion
+- Crpeta Flexion: Contiene la data de muestras del ensayo realizado a flexion
+- Carpeta Traccion: Contiene la data de muestras del ensayo a traccion
+- Carpeta Polimero Traccion: Contiene la data limpia y el codigo principal para realizar el estudio de traccion
     El codigo principal tiene por nombre: Analisis_esfuerzo_deformacion.py
-- Carpeta Polimero flexion: Contiene la data limpia u el codigo principal para realizar el estudio de flexion
+- Carpeta Polimero flexion: Contiene la data limpia y el codigo principal para realizar el estudio de flexion
     El codigo principal tiene por nombre: Analisis_flexion.py
 - Polimero-env: El entorno virtual
 - Requirement.txt: Acrivo en formato .txt con las librerias necesarias para correr el proyecto.
